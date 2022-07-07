@@ -80,19 +80,19 @@ header .container {
 header img {
   display: block;
   margin: 0 auto 20px;
-  margin-right: 10px;
+  margin-right: 80px;
 
 }
 header .intro-text .name {
   display: block;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 300;
   font-size: 2em;
 }
 header .intro-text .skills {
-  font-size: 1.25em;
-  font-weight: 300;
+  font-size: 1.0em;
+  font-weight: 150;
 }
 @media (min-width: 768px) {
   header .container {
